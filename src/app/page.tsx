@@ -10,10 +10,10 @@ export default function Home() {
     <div className="mx-10">
       <div className="flex justify-center flex-row">
         <div className="mt-20 flex flex-col items-center w-[100%] lg:w-[60%] inter.classname">
-            <p className="pt-20 text-[6rem] font-semibold ">
+            <p className="pt-20 text-[6rem] font-semibold text-neutral-300 ">
               Collab<span className="text-purple-800">X</span>
             </p>
-            <p className="my-3 sm:w-[70%] text-center text-4xl font-medium text-salte-400 dark:text-gray-50 ">
+            <p className="my-3 sm:w-[70%] text-center text-3xl font-medium text-salte-400 dark:text-gray-50 ">
               A collaborative business platform for creators with limited resources to upscale your business.
 
             </p>

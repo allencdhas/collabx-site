@@ -4,6 +4,7 @@ import "./globals.css";
 import { Inter } from 'next/font/google'
 
 import NavBar from "../components/NavBar";
+import Footer from "../components/Footer";
 
 
 const inter = Inter({ subsets: ['latin'] })
@@ -38,6 +39,7 @@ export default function RootLayout({
         <div className="absolute top-0 z-[-2] h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
         <NavBar />
         {children}
+        <Footer />
       </body>
     </html>
   );
