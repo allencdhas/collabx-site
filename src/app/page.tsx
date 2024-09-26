@@ -27,7 +27,7 @@ export default function Home() {
               <Button className="mt-2 text-white font-semibold border-5 border-purple-950 bg-purple-800 hover:bg-purple-700 hover:text-purple-white focus:ring-2 focus:ring-purple-950 focus:ring-opacity-50"
                        variant="secondary"
               >
-                Launch DApp
+                Launch dApp
               </Button>
             </div>
         </div>
