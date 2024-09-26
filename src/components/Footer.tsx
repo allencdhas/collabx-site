@@ -12,7 +12,7 @@ const space_grotesk = Space_Grotesk({
 
 const Footer = () => {
   return (
-    <footer className="mt-8  text-center text-xl  text-gray-400 flex justify-center">
+    <footer className="mt-10  text-center text-lg  text-gray-400 flex justify-center">
       {/* Main Footer Content */}
       <div className="mt-10">
         <div className="mt-20 flex flex-row space-x-2.5 items-center">
