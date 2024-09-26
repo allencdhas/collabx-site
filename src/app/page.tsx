@@ -8,9 +8,9 @@ const inter = Inter({ subsets: ['latin'] })
 export default function Home() {
   return (
     
-    <div className="mx-20">
+    <div className="mt-5">
       <div className="flex justify-center flex-row">
-        <div className="mt-20 flex flex-col items-center w-[100%] lg:w-[60%] inter.classname">
+        <div className="mt-10 flex flex-col items-center w-[100%] lg:w-[60%] inter.classname">
             <p className="mt-10 pt-20 text-[6rem] font-semibold text-neutral-300 ">
               Collab<span className="text-purple-800">X</span>
             </p>
