@@ -21,7 +21,7 @@ const Footer = () => {
                     Powered By
                 </p>   
             </div>
-            <Image src={kintoLogo} height={120} width={120} alt='img' className=""/>
+            <Image src={kintoLogo} height={110} width={110} alt='img' className=""/>
         </div>
       </div>
     </footer>
